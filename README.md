@@ -3,3 +3,5 @@ The GPT indeed reform the learing process. Some technical problems could be easi
 
 
 I will update this project recently, besides, I will merge another idea into this project (Schedulist, which is a LLM-based working agent.
+
+When I am relatively free, I will further reconsturct this project with Rust.
